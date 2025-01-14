@@ -1,7 +1,7 @@
 /*
- *   Assignment: [assignmentName]
- *      Purpose: [shortPurposeStatement]
- *         File: main.cpp (edit if file renamed)
+ *   Assignment: C++ Variables
+ *      Purpose: Introduction to variables (using the string and int data types)
+ *         File: main.cpp
  *
  *      SPDX-FileCopyrightText: © 2025 [Your Name] <[yourEmail@hightechhigh.org]>
  */
